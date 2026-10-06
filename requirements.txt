@@ -1,0 +1,15 @@
+# Portable dependencies for imports and synthetic unit tests.
+# For CUDA training, install requirements-cuda12.txt instead.
+ogbench==1.2.1
+jax>=0.4.26
+flax>=0.8.4
+optax>=0.2.3
+distrax>=0.1.5
+numpy>=1.26.4
+ml-collections>=1.0.0
+absl-py>=2.1
+tqdm>=4.66
+Pillow>=10
+wandb>=0.17.9
+moviepy>=1.0.3
+matplotlib>=3.8

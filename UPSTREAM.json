@@ -1,0 +1,22 @@
+{
+  "upstream_repository": "https://github.com/seohongpark/ogbench",
+  "upstream_commit": "1d4140997f60c52c6fb0702ec100dc988b18c548",
+  "unchanged_workspace_files": {
+    "LICENSE": "715578d1f9e969ec0e99b730b443a4a3b7d07dbc0da462e47b50c36782b1812b",
+    "impls/agents/hiql.py": "9467f75bf63e74a99bb68b888b55a224a74109dd67b12265d3f1b9885dbc6ef0",
+    "impls/utils/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "impls/utils/datasets.py": "aae94dc37a22aef8375964bddf3426f4c2a9fab38e30b5beaa568eb6a3b5866f",
+    "impls/utils/encoders.py": "6bd7fdd82838b754d26af01f9e84d70fa63fca1e09efee38a09f325884073ecc",
+    "impls/utils/env_utils.py": "a92d391a3d95e26717b80ea783f487f0639c956f23ef603bfa8b7bb098f763d7",
+    "impls/utils/evaluation.py": "4d9a2732bc9ef89ce99fbc0f07a76d3f4d035783af3a658251709140ff9de3d5",
+    "impls/utils/flax_utils.py": "5b6a8e9a919bf57dae0c1454f327ded4235385f9d9dcd1e62263fe4fad9fd484",
+    "impls/utils/log_utils.py": "ba5ad408d91ee35d92bf06ec7846846c5a75af4ae7cc62c329ec43d074bfaeb6",
+    "impls/utils/networks.py": "e7e4c4a439b691911e5ae6c2653f253c5703e6b5d190d813e28ebc32e7306094"
+  },
+  "test_reference": {
+    "file": "tests/reference_hiql.py",
+    "upstream_path": "impls/agents/hiql.py",
+    "sha256": "0cbceb5506e465f2be793dfd69be0244f7990a4d7335afe78c1f74a42b1aa43e"
+  },
+  "hash_normalization": "UTF-8 bytes with LF line endings"
+}
